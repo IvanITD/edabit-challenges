@@ -8,7 +8,7 @@ Personal solutions to coding challenges from [Edabit](https://edabit.com/).
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="Edabit" src="https://img.shields.io/badge/Edabit-2EA44F?style=for-the-badge">
-<img alt="19 challenges" src="https://img.shields.io/badge/19_challenges-solved-111111?style=for-the-badge">
+<img alt="20 challenges" src="https://img.shields.io/badge/20_challenges-solved-111111?style=for-the-badge">
 
 </div>
 
@@ -76,6 +76,8 @@ JavaScript/
 **16** &nbsp; [Is the String Empty?](<JavaScript/16-Is the String Empty>)
 
 **18** &nbsp; [Char-to-ASCII](<JavaScript/18-Char-to-ASCII>)
+
+**20** &nbsp; [Calculate Using String Operation](<JavaScript/20-Calculate Using String Operation>)
 
 </td>
 </tr>
