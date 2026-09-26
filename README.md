@@ -8,7 +8,7 @@ Personal solutions to coding challenges from [Edabit](https://edabit.com/).
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="Edabit" src="https://img.shields.io/badge/Edabit-2EA44F?style=for-the-badge">
-<img alt="21 challenges" src="https://img.shields.io/badge/21_challenges-solved-111111?style=for-the-badge">
+<img alt="22 challenges" src="https://img.shields.io/badge/22_challenges-solved-111111?style=for-the-badge">
 
 </div>
 
@@ -80,6 +80,8 @@ JavaScript/
 **18** &nbsp; [Char-to-ASCII](<JavaScript/18-Char-to-ASCII>)
 
 **20** &nbsp; [Calculate Using String Operation](<JavaScript/20-Calculate Using String Operation>)
+
+**22** &nbsp; [Smash Factor](<JavaScript/22-Smash Factor>)
 
 </td>
 </tr>
