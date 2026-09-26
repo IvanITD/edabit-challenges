@@ -8,7 +8,7 @@ Personal solutions to coding challenges from [Edabit](https://edabit.com/).
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="Edabit" src="https://img.shields.io/badge/Edabit-2EA44F?style=for-the-badge">
-<img alt="18 challenges" src="https://img.shields.io/badge/18_challenges-solved-111111?style=for-the-badge">
+<img alt="19 challenges" src="https://img.shields.io/badge/19_challenges-solved-111111?style=for-the-badge">
 
 </div>
 
@@ -53,6 +53,8 @@ JavaScript/
 **15** &nbsp; [Return Something to Me!](<JavaScript/15-Return Something to Me!>)
 
 **17** &nbsp; [Fix the Error: Check Whether a Given Number Is Odd](<JavaScript/17-Fix the Error_Check Whether a Given Number Is Odd>)
+
+**19** &nbsp; [Get the File Name](<JavaScript/19-Get the File Name>)
 
 </td>
 <td width="50%">
